@@ -1,4 +1,4 @@
-## Application Details_1
+## Application Details
 |               |
 | ------------- |
 |**Generation Date and Time**<br>Wed Oct 11 2023 11:19:20 GMT+0000 (Coordinated Universal Time)|
