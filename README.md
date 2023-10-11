@@ -1,4 +1,3 @@
-## Application Details_Branch2
 ## Application Details
 |               |
 | ------------- |
