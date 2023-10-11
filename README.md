@@ -1,4 +1,3 @@
-## New line to Main branch
 ## Application Details
 |               |
 | ------------- |
