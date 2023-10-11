@@ -1,7 +1,0 @@
-<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="comsapfiori.projecthw.controller.HelloWorldVeiw" displayBlock="true">
-    <Page id="page" title="{i18n>title}">
-        <content>
-            <Text xmlns="sap.m" text="HelloWorld!!!" id="text2"/>
-        </content>
-    </Page>
-</mvc:View>
